@@ -61,6 +61,7 @@
      <Compile Include="Assets\Uniduino\Tutorials\Servo\Servo.cs" />
      <Compile Include="Assets\Uniduino\Tutorials\Servo\ServoSlideControl.cs" />
      <Compile Include="Assets\Uniduino\UniduinoTestPanel\UniduinoTestPanel.cs" />
+     <Compile Include="Assets\rotate.cs" />
      <None Include="Assets\Low Poly\readme.txt" />
      <None Include="Assets\GradientShader.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
